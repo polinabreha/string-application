@@ -16,7 +16,7 @@ public class VariableApp {
         System.out.println(middleInitial + " the middle name");
         System.out.println("I do have a pet: " + hasPet);
         System.out.println(niceMessage);
-        System.out.println(numberDaysInWeek);
+        System.out.println("In a week we have " + numberDaysInWeek + " days");
         System.out.println("Nowadays coffee is expensive. It is " + priceOfCoffee);
         System.out.println("My favourite letter is: " + favouriteLetter);
         System.out.println("Is it rainy today? " + isItRainy);
