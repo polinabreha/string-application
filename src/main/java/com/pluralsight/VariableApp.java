@@ -11,14 +11,14 @@ public class VariableApp {
         double priceOfCoffee = 4.99;
         char favouriteLetter = 'P';
         boolean isItRainy = false;
-        System.out.println(color);
-        System.out.println(yearStartingSchool);
-        System.out.println(middleInitial);
-        System.out.println(hasPet);
+        System.out.println("My favourite color is: " + color);
+        System.out.println("I started YUU in " + yearStartingSchool);
+        System.out.println(middleInitial + " the middle name");
+        System.out.println("I do have a pet: " + hasPet);
         System.out.println(niceMessage);
         System.out.println(numberDaysInWeek);
-        System.out.println(priceOfCoffee);
-        System.out.println(favouriteLetter);
-        System.out.println(isItRainy);
+        System.out.println("Nowadays coffee is expensive. It is " + priceOfCoffee);
+        System.out.println("My favourite letter is: " + favouriteLetter);
+        System.out.println("Is it rainy today? " + isItRainy);
     }
 }
